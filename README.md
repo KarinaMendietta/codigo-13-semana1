@@ -42,3 +42,10 @@ git pull origin main
 
 - Sirve para poder descargar los cambios de nuestro repositorio a la nube, en este caso git hub
 
+
+```
+git branch
+```
+
+```
+git checkout nombre_del_
